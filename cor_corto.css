@@ -1,0 +1,48 @@
+body {
+    background-color: #D3DBDE;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-style: bolder;
+    color: #333333;
+    font-size: 42px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: #7B929D;
+    font-style: unset;
+    color: #415058;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+h3 {
+    font-style: oblique;
+    background-color: #98AAB3;
+    color: #576B75;
+    font-size: 25px;
+}
+
+p {
+    background-color: #B6C2C9;
+}
+
+strong {
+    
+    color: #006699;
+}
+
+em {
+    font-style: normal;
+    color: #0088CC;
+}
+
+address {
+    text-align: right;
+    background-color: white;
+    font-weight: bold;
+}
